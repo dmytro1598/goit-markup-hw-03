@@ -200,7 +200,7 @@ address {
 }
 .img-link {
   display: block;
-  ax-width: 100%;
+  max-width: 100%;
   height: auto;
 }
 .engage-boxes {
